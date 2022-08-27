@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "Category": "Fruit",
+      "date": "2022-08-25T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 500,
+      "comment": "i like to eat",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "Category": "Fruit",
+      "date": "2022-08-10T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "kele lelo",
+      "id": 3
+    },
+    {
+      "productName": "Lady Finger",
+      "Category": "Vegitable",
+      "date": "2022-08-18T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 5625,
+      "comment": "ladyfinger is shy just like lady",
+      "id": 4
+    },
+    {
+      "productName": "Redmi Note 9 Pro",
+      "Category": "Electronics",
+      "date": "2022-08-21T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 18000,
+      "comment": "mast mobile",
+      "id": 5
+    },
+    {
+      "productName": "Dell Inspiron ",
+      "Category": "Electronics",
+      "date": "2022-08-17T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 30000,
+      "comment": "kam chalau laptop pn bara aahe",
+      "id": 6
+    },
+    {
+      "productName": "chiku",
+      "Category": "Fruit",
+      "date": "2022-08-02T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 5453435,
+      "comment": "ye chiku mast hai",
+      "id": 7
+    },
+    {
+      "productName": "Mango",
+      "Category": "Fruit",
+      "date": "2022-08-17T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 26523,
+      "comment": "don't underestimate me I am a King",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
